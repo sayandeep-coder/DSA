@@ -2,7 +2,18 @@
 
 Welcome to my Data Structures and Algorithms repository! This repository contains production-quality, optimal C++ solutions for the top 50 most frequently asked interview problems at FAANG (Facebook, Amazon, Apple, Netflix, Google) and other top-tier tech companies.
 
-## 🚀 Repository Structure & Categories
+A curated collection of the Top 50 FAANG-Favorite Data Structures & Algorithms Problems implemented in Modern C++ (C++17).
+This repository is designed for:
+Software Engineering Interviews
+FAANG Preparation
+Google Interview Prep
+Amazon Interview Prep
+Meta Interview Prep
+Microsoft Interview Prep
+OpenAI & Anthropic Interview Prep
+Competitive Programming Foundations
+
+## Repository Structure & Categories
 
 The problems are categorized by the core pattern/data structure required to solve them optimally.
 
@@ -94,3 +105,38 @@ Each file rigorously follows this professional template:
 3. Highly optimized modern C++17 implementations using the STL.
 4. Inline comments explaining core logic.
 5. A `main()` driver demonstrating execution and output printing.
+
+🎯 Interview Patterns Covered
+Hash Maps
+Arrays
+Sliding Window
+Two Pointers
+Stack
+Binary Search
+Linked Lists
+Trees
+DFS
+BFS
+Graph Traversal
+Topological Sort
+Dynamic Programming
+Greedy Algorithms
+Heap / Priority Queue
+Recursion
+Backtracking Fundamentals
+
+
+⭐ Why This Repository?
+Most repositories provide only code.
+This repository focuses on:
+
+Understanding the pattern
+Learning the optimal approach
+Writing interview-ready solutions
+Building strong problem-solving skills
+
+The goal is not just to solve problems, but to understand how top companies evaluate algorithmic thinking.
+
+👨‍💻 Author
+Sayandeep Purkait
+Building a strong foundation in Algorithms, System Design, AI Engineering, and Scalable Software Development.
