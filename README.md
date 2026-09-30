@@ -11,7 +11,7 @@ Amazon Interview Prep
 Meta Interview Prep
 Microsoft Interview Prep
 OpenAI & Anthropic Interview Prep
-Competitive Programming Foundations
+Competitive Programming Foundations.
 
 ## Repository Structure & Categories
 
